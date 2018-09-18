@@ -1,4 +1,6 @@
 # travelling-salesman-problem
 using Genetic Algorithm
 
-Assume starting city as constant
+->Python implementation
+
+-> Assume starting city as constant
